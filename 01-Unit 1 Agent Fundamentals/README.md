@@ -12,6 +12,7 @@ Understand what AI agents are and how they use LLMs, messages, tools, thoughts, 
 - [ ] Thoughts, actions, and observations
 - [ ] Agent execution loop
 - [ ] Python functions as tools
+- [ ] Error handling for tools
 
 
 ## My Understanding
