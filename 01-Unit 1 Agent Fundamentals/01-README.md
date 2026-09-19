@@ -4,7 +4,7 @@ Understand what AI agents are and how they use LLMs, messages, tools, thoughts, 
 
 ## Topics
 
-- [ ] What is an AI agent?
+- [x] What is an AI agent?
 - [ ] LLM basics for agents
 - [ ] Messages and chat templates
 - [ ] Special tokens
