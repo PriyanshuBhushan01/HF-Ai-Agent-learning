@@ -19,7 +19,22 @@ Topic: [What is an Agent]
 
 
 
+ # Ai Agent example:
 
+ ~ Reasoning: “User wants pizza → need restaurants → need menu → need payment.”
+
+ ~ Planning: “Step 1: find restaurants → Step 2: compare → Step 3: order.”
+
+ ~ Action: Calls APIs → places order → sends confirmation.
+
+
+"Calls a location API → gets your address
+
+ Calls a restaurant API → fetches pizza places
+
+ Calls a menu API → checks items
+
+ Calls a payment API → pays" 
 """
 
 
