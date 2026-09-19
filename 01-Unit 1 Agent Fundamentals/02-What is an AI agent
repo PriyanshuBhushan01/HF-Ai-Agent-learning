@@ -28,13 +28,15 @@ Topic: [What is an Agent]
  ~ Action: Calls APIs → places order → sends confirmation.
 
 
-"Calls a location API → gets your address
+ # API tools used in this example:
 
- Calls a restaurant API → fetches pizza places
+ ※ Calls a location API → gets your address
 
- Calls a menu API → checks items
+ ※ Calls a restaurant API → fetches pizza places
 
- Calls a payment API → pays" 
+ ※ Calls a menu API → checks items
+
+ ※ Calls a payment API → pays
 """
 
 
