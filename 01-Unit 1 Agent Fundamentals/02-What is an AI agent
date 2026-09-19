@@ -2,17 +2,26 @@
 Topic: [What is an Agent]
 
 
-# Agent: An Ai agent is basically an AI that doesn't just work, It actually does things like:
+# Agent: An Ai agent is a system that laverage an ai model to interact with users, It actually does things like:
          
         ~ Reasoning
         ~ planning
         ~ execution of action
 
-# Reasoning: Reasoning is how ai thinks through a goal before doing it         
+# Reasoning: Reasoning is how ai thinks through a goal before doing it.
+            ~ Creating a roadmap of provided goal
+
+# Planning: Planning is how ai breakes a goal into small steps.
+           ~ Breaking a goal into small steps sequence 
+
+# Action: Action is when agent is actually perform a task by using tools. 
+          ~ Execute action by using multiple Api tools like api call, search, email, wheather,query, etc..   
+
+
+
+
 """
 
 
 
 
-
-Actions are not the same as Tools. An Action, for instance, can involve the use of multiple Tools to complete.
