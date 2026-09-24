@@ -3,6 +3,20 @@ Topic: LLM in an agents
 
 LLM: LLM job is to predict next token by looking at every token and choose max. attention token.
      Token is a unit(word in a sentence) of info. llm work with.
+     example: English has 600,000 words and LLM have a vocabulary of around 32,000 tokens.
 
-LLM used in ai agents:      
+LLM used in ai agents: provide foundation to understand and generate human language and can interpret user instructions, maintain content in conversation, define plans and tools to use.
+
+LLM is decoder-based model with billions of parameters that work on transformer architecture.
+
+LLM is a massive ai neural network that trained on vast amount of internet text(helps predict next token).
+
+LLM Models:
+
+~ Deepseek-R1
+~ Llama 3
+~ SmolLM2
+~ Gemma
+~ Mistral
+
 """
