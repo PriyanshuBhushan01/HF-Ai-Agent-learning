@@ -1,0 +1,8 @@
+"""
+Topic: LLM in an agents
+
+LLM: LLM job is to predict next token by looking at every token and choose max. attention token.
+     Token is a unit(word in a sentence) of info. llm work with.
+
+LLM used in ai agents:      
+"""
