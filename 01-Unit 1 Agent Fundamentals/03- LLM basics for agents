@@ -9,7 +9,7 @@ LLM used in ai agents: provide foundation to understand and generate human langu
 
 LLM is decoder-based model with billions of parameters that work on transformer architecture.
 
-LLM is a massive ai neural network that trained on vast amount of internet text(helps predict next token).
+LLM is a massive ai neural network that trained on vast amount of internet text( that helps predict next token).
 
 LLM Models:
 
