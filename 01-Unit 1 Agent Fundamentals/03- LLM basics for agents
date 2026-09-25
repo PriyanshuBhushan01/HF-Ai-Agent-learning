@@ -11,7 +11,7 @@ LLM is decoder-based model with billions of parameters that work on transformer 
 
 LLM is a massive ai neural network that trained on vast amount of internet text( that helps predict next token).
 
-LLM Models:
+LLM Models: 
 
 ~ Deepseek-R1
 ~ Llama 3
