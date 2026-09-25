@@ -10,7 +10,7 @@ My goal is to build a strong foundation in AI agents, tool use, agent frameworks
 - [ ] Unit 2: Agent Frameworks
   - [ ] smolagents
   - [ ] LlamaIndex
-  - [ ] LangGraph
+  - [ ] LangGraph 
 - [ ] Unit 3: Agent Use Cases / Agentic RAG
 - [ ] Unit 4: Final Assignment
 
