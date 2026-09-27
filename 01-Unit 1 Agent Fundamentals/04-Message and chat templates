@@ -1,3 +1,36 @@
 """
 Topic: Message and chat templates
+
+Message: A message is the unit of communication between the agent and the user (or between agents/tools).
+
+Each message usually has:
+
+Role → who is speaking (user, assistant, system, tool).
+
+Content → the actual text or instruction.
+
+Metadata → extra info like timestamps, IDs, or context.
+
+message example:
+
+{
+  "role": "user",
+  "content": "Book me a flight to Delhi tomorrow evening."
+}
+
+Chat templates: A chat template is a structured format that defines how messages are arranged and passed into the AI model.
+
+It ensures consistency so the agent knows:
+
+What the system rules are
+
+What the user asked
+
+What the assistant should reply
+
+
+Messages = the raw inputs/outputs.
+
+Chat templates = the organized conversation flow.
+Together, they let the agent reason, plan, and act reliably.
 """
