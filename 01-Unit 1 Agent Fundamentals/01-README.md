@@ -6,7 +6,7 @@ Understand what AI agents are and how they use LLMs, messages, tools, thoughts, 
 
 - [x] What is an AI agent?
 - [x] LLM basics for agents
-- [ ] Messages and chat templates
+- [x] Messages and chat templates
 - [ ] Special tokens
 - [ ] Tools and tool descriptions 
 - [ ] Thoughts, actions, and observations
