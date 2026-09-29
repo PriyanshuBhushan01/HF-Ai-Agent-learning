@@ -31,7 +31,8 @@ What the assistant should reply
 
 ● Messages = the raw inputs/outputs.
 
-● Chat templates = the organized conversation flow.
+● Chat templates = the organized conversation flow. 
+
                   Together, they let the agent.
                   ~ reason
                   ~ plan 
