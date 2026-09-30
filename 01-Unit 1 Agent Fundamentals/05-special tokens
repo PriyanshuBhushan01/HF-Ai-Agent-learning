@@ -14,7 +14,15 @@ Why they matter in AI agents:
 
 ~ They let the agent reason about who said what.
 
-~ They keep the chat template structured (system → user → assistant).
+~ They keep the chat template structured 
+
+          system 
+             
+          
+          user 
+          
+          
+          assistant
 
 ~ They allow actions like switching between tools, languages, or tasks.
 
