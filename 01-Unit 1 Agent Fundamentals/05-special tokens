@@ -3,11 +3,11 @@ Topic: Special tokens
 
 Special tokens: Special tokens are reserved markers that help AI agents structure conversations, separate roles, and control tasks.
                 
-                They are reserved symbols in the model’s vocabulary.
+                ~ They are reserved symbols in the model’s vocabulary.
 
-                Used to mark roles, boundaries, or formatting.
+                ~ Used to mark roles, boundaries, or formatting.
 
-                Help the AI agent know who is speaking or what type of content it is.
+                ~ Help the AI agent know who is speaking or what type of content it is.
 
 
 Why they matter in AI agents:
