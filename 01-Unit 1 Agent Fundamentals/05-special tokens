@@ -17,11 +17,9 @@ Why they matter in AI agents:
 ~ They keep the chat template structured 
 
           system 
-             
-          
-          user 
-          
-          
+            ⇓
+           user 
+            ⇓          
           assistant
 
 ~ They allow actions like switching between tools, languages, or tasks.
