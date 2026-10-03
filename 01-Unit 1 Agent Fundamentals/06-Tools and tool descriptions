@@ -32,4 +32,18 @@ Makes the agent autonomous (it can pick the right tool without human interventio
 Ensures reliability (structured inputs/outputs).
 
 
+
+🧩How the agent uses it:
+
+You ask: “What’s the weather in Delhi right now?”
+
+Agent reads the tool description → sees it needs city.
+
+Agent calls: get_weather(city="Delhi", unit="C").
+
+Tool returns: { "temp": 32, "condition": "Sunny" }.
+
+Agent replies: “It’s 32°C and sunny in Delhi.”
+
+
 """
