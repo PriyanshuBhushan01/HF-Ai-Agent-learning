@@ -1,0 +1,12 @@
+"""
+Topic: Tools tool descriptions
+
+
+🛠️ What Are Tools in AI Agents?
+
+Tools are external functions or APIs that the agent can call to perform tasks beyond text generation.
+
+They extend the agent’s abilities — letting it fetch data, control apps, or take real-world actions.
+
+Think of them as the plugins or capabilities the agent can use.
+"""
