@@ -15,11 +15,11 @@ Think of them as the plugins or capabilities the agent can use.
 
 This description is critical because the agent  uses it to decide which tool to call and how to format the request.
 
-What the tool does (purpose).
+~ What the tool does (purpose).
 
-How to call it (parameters, inputs, outputs).
+~ How to call it (parameters, inputs, outputs).
 
-When to use it (conditions or triggers).
+~ When to use it (conditions or triggers).
 
 
 
