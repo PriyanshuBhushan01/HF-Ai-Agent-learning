@@ -29,6 +29,7 @@ It follows directly from the Thought.
 It must be in a structured format (JSON, function call, or special action token). 
 
 Example:  
+search ("tesla stock price")
 
 
 
