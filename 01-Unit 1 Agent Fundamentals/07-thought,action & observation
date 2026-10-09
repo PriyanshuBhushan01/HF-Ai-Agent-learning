@@ -46,4 +46,18 @@ It corrects or updates the agent’s reasoning.
 
 Example:  
 Observation: “Tesla stock price is $245.”
+
+
+
+
+Loop:
+Thought: “I need to check the weather.”
+
+Action: Call weather API.
+
+Observation: API returns “Rainy, 25°C.”
+
+Back to Thought: “Now I can answer the user.”
+
+Repeat until Final Answer.
 """
