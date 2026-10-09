@@ -15,4 +15,18 @@ It is not executed — only internal planning.
 
 Example:  
 “User asked for stock price → I should call the finance API.”
+
+
+⚡ Action — Tool invocation
+Action is when the agent performs a real step using a tool, API, or function.
+
+Key points (grounded):
+
+It is a discrete tool-use step such as search, API call, database query. 
+
+It follows directly from the Thought.
+
+It must be in a structured format (JSON, function call, or special action token). 
+
+Example:  
 """
