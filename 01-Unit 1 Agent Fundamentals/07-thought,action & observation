@@ -29,4 +29,20 @@ It follows directly from the Thought.
 It must be in a structured format (JSON, function call, or special action token). 
 
 Example:  
+
+
+
+👀 Observation — Result from the environment
+Observation is the feedback the agent receives after performing an action.
+
+Key points (grounded):
+
+It is the external result of the tool call (API response, search result, error). 
+
+It is injected back into the agent’s context for the next Thought. 
+
+It corrects or updates the agent’s reasoning.
+
+Example:  
+Observation: “Tesla stock price is $245.”
 """
