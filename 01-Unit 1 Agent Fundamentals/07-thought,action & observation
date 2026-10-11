@@ -51,6 +51,7 @@ Observation: “Tesla stock price is $245.”
 
 
 Loop:
+
 Thought: “I need to check the weather.”
 
 Action: Call weather API.
