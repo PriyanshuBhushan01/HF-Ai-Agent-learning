@@ -1,0 +1,11 @@
+"""
+Topic: Agent execution Loop
+
+
+🔄 The Agent Execution Loop (Step‑by‑Step)
+Perceive (Input)
+
+Agent receives a goal or user query.
+
+Example: “Book me a flight to Delhi tomorrow evening.”
+"""
