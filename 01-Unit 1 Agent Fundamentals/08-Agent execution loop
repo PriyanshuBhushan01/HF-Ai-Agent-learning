@@ -34,4 +34,10 @@ Act (Execute)
 Agent calls tools/APIs to perform tasks.
 
 Example: Calls get_flights(destination="Delhi", date="2026-10-14", time="evening").
+
+Observe (Check Results)
+
+Agent reads the tool’s output.
+
+Example: Flight API returns 3 options.
 """
