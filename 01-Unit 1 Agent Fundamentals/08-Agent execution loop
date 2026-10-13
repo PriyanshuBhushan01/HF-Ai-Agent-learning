@@ -8,4 +8,10 @@ Perceive (Input)
 Agent receives a goal or user query.
 
 Example: “Book me a flight to Delhi tomorrow evening.”
+
+Reason (Think)
+
+Agent analyzes the request, breaks it into subtasks, and decides what information/tools are needed.
+
+Example: Destination = Delhi, Date = tomorrow, Time = evening.
 """
