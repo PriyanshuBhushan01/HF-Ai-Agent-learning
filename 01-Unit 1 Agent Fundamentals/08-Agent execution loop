@@ -14,4 +14,18 @@ Reason (Think)
 Agent analyzes the request, breaks it into subtasks, and decides what information/tools are needed.
 
 Example: Destination = Delhi, Date = tomorrow, Time = evening.
+
+Plan (Decide Steps)
+
+Agent creates a sequence of actions to achieve the goal.
+
+Example:
+
+Step 1: Call flight search API.
+
+Step 2: Filter evening flights.
+
+Step 3: Present options.
+
+Step 4: Book selected flight.
 """
