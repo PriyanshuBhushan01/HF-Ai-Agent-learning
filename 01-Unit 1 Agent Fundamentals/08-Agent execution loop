@@ -35,7 +35,7 @@ Agent calls tools/APIs to perform tasks.
 
 Example: Calls get_flights(destination="Delhi", date="2026-10-14", time="evening").
 
-Observe (Check Results)
+Observe (Check Results) 
 
 Agent reads the tool’s output.
 
