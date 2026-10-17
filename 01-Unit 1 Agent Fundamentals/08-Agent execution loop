@@ -15,7 +15,7 @@ Agent analyzes the request, breaks it into subtasks, and decides what informatio
 
 Example: Destination = Delhi, Date = tomorrow, Time = evening.
 
-Plan (Decide Steps)
+Plan (Decide Steps) 
 
 Agent creates a sequence of actions to achieve the goal.
 
