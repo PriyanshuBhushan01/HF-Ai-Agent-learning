@@ -9,19 +9,19 @@ Agent receives a goal or user query.
 
 Example: “Book me a flight to Delhi tomorrow evening.”
 
-Reason (Think)
+🧩Reason (Think)
 
 Agent analyzes the request, breaks it into subtasks, and decides what information/tools are needed.
 
 Example: Destination = Delhi, Date = tomorrow, Time = evening.
 
-Plan (Decide Steps)
+Plan (Decide Steps) 
 
 Agent creates a sequence of actions to achieve the goal.
 
 Example:
 
-Step 1: Call flight search API.
+Step 1: Call flight search API. 
 
 Step 2: Filter evening flights.
 
@@ -29,13 +29,13 @@ Step 3: Present options.
 
 Step 4: Book selected flight.
 
-Act (Execute)
+🎯Act (Execute)
 
 Agent calls tools/APIs to perform tasks.
 
 Example: Calls get_flights(destination="Delhi", date="2026-10-14", time="evening").
 
-Observe (Check Results)
+Observe (Check Results) 
 
 Agent reads the tool’s output.
 
