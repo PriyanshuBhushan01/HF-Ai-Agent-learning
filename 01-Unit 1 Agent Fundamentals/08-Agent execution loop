@@ -39,5 +39,7 @@ Observe (Check Results)
 
 Agent reads the tool’s output.
 
-Example: Flight API returns 3 options.
+Example: Flight API returns 3 options. 
+
+
 """
