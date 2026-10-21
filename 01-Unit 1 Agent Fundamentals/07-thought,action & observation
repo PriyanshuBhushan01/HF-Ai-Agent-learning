@@ -18,7 +18,7 @@ Example:
 “User asked for stock price → I should call the finance API.”
 
 
-⚡ Action — Tool invocation
+⚡ Action — Tool invocation 
 
 Action is when the agent performs a real step using a tool, API, or function.
 
