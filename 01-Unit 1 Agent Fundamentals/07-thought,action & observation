@@ -39,7 +39,7 @@ search ("tesla stock price")
 
 Observation is the feedback the agent receives after performing an action.
 
-Key points (grounded):
+Key points (grounded): 
 
 It is the external result of the tool call (API response, search result, error). 
 
