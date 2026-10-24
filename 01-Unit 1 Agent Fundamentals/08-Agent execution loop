@@ -21,7 +21,7 @@ Agent creates a sequence of actions to achieve the goal.
 
 Example:
 
-Step 1: Call flight search API. 
+Step 1: Call flight search API.  
 
 Step 2: Filter evening flights.
 
